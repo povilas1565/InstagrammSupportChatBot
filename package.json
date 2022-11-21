@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "google-spreadsheet": "^3.3.0",
+    "insta-photos": "^1.0.0"
+  }
+}
