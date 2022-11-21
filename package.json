@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "google-spreadsheet": "^3.3.0",
-    "insta-photos": "^1.0.0"
+    "instagram-api-web-node": "^5.2.21",
+    "instagram-node" : "^0.5.8"
   }
 }
