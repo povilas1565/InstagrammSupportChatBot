@@ -5,7 +5,7 @@ module.exports = async function() {
         Markup.button.callback('Информация о приложении', 'Информация о приложении')
     ],
      [
-        Markup.button.url('Связаться с оператором', ''),
+        Markup.button.url('Связаться с оператором', 'https://www.supportbot.com/'),
         Markup.button.callback('Наши контакты', 'Наши контакты')
     ],
     [

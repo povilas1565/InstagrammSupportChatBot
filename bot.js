@@ -1,5 +1,5 @@
 const {session, Markup, Scenes, Instagram} = require('instagram-api-web-node')
-const bot = new Instagram("IGQVJYRHR1MElWd092elFpLUVua2pDdmdHcDVVR0t1UV9lMW5QaFk4amx6STdoTXBNZA0dpdjI5aXdWNXZAtSC1IRGhUTGg2dUFFUWtjNE9hcFRqR1NOR1hubE82WTlTa0IxYzBXRk56ZA21LYUl2NnBhbQZDZD")
+const bot = new Instagram("IGQVJWcUlaUlVlUXZAHMkdzMlg2MFNhM0lkZAm5nMEcxNzNfUWFJWEhWS25GOUEtR0FZAVU1PU1pMSjFsOXA1OWVyMHJGNW9GWmh5N3YybmpxZA2hBSG1tY2tFdmZAubTlWTFNaaWRMd0Y5U1Y4bm1ielkzNgZDZD")
 const Sheets = require("./Sheet.js")
 const sheets = new Sheets();
 

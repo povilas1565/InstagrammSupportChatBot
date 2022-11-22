@@ -1,6 +1,6 @@
 const creds = require('./creds.json')
 const { GoogleSpreadsheet } = require('google-spreadsheet');
-const doc = new GoogleSpreadsheet('') //Заказчика
+const doc = new GoogleSpreadsheet('128ZioPPh1qhKYO8nAZ6rVk0w83voyqU6lV2945r34pQ') //Заказчика
 
 
 module.exports = class Sheet {
